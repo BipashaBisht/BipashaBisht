@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Bipasha%20Bisht&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20(AI/ML)%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+%7C+Python+Developer; C++; DSA+Enthusiast;Exploring+AI+Tools;Building+Frontend+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Java+%7C+Python+Developer;DSA+Enthusiast;Exploring+AI+Tools;Building+Frontend+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@ const bipasha = {
 
 | Layer      | Technology            |
 |------------|------------------------|
-| Language   | Java, Python ,C++          |
+| Language   | Java, Python          |
 | Concepts   | DSA, AI Tools          |
 
 🔗 [Code](https://github.com/BipashaBisht/BipashaBisht)
