@@ -22,7 +22,7 @@
 ```typescript
 const bipasha = {
   title: "CSE (AI/ML) Student",
-  stack: ["Java", "Python", "DSA", "AI Tools"],
+  stack: ["Java", "Python", "C++","DSA", "AI Tools"],
   launchedProjects: ["BipashaBisht"],
   certifications: ["Build with India"],
   status: "Learning & Building 🚀",
